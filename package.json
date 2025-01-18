@@ -30,7 +30,6 @@
   "license": "MIT",
   "main": "index.js",
   "name": "zwack",
-  "type": "module",
   "repository": {
     "type": "https",
     "url": "git+https://github.com/sirfergy/zwack.git"
